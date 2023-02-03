@@ -274,8 +274,9 @@ Para calcular um CPF existem alguns passo que precisam ser seguidos, veja abaixo
 
 Vamos tomar como exemplo o CPF fictício 728.316.240-29, para calcular seus DVs vamos fazer as seguintes operações.
 
-Calculando o DV 1
-| Dígito do CPF |  7 |  2 |  8 |  3 | 1 |  6 | 2 |  4 | 0 |
+Calculando o DV1
+
+| Dígito do CPF |  7 |  2 |  8 |  3 | 1 |  6 | 2 |  4 | 0 | DV1 |
 |---------------|:--:|:--:|:--:|:--:|:-:|:--:|:-:|:--:|:-:|:---:|
 | Multiplicador | 10 |  9 |  8 |  7 | 6 |  5 | 4 |  3 | 2 |     |
 | Resultado     | 70 | 18 | 64 | 21 | 6 | 30 | 8 | 12 | 0 |     |
