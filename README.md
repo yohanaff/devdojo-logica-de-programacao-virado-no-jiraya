@@ -294,6 +294,7 @@ Se o resultado da subtração for maior que 9, o dígito verificador é ZERO. Ca
 E temos o primeiro dígito verificador
 
 | CPF | 7 | 2 | 8 | 3 | 1 | 6 | 2 | 4 | 0 | 2 |
+|-----|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 Agora devemos calcular o segundo dígito verificador da seguinte forma
 
