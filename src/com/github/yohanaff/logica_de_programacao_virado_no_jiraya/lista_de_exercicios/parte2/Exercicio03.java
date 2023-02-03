@@ -22,7 +22,7 @@ public class Exercicio03 {
         System.out.print("e: ");
         int e = scanner.nextInt();
 
-        System.out.println("Números divisíveis por 5 ou 3:");
+        System.out.println("Números divisíveis por 2 ou 3:");
         if(a % 2 == 0 || a % 3 == 0) {
             System.out.println(a);
         }
